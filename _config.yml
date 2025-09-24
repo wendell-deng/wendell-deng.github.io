@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "邓文哲(Wendell Deng)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "邓文哲-Wendell Deng
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wendell-deng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,13 +23,13 @@ repository               : "wendell-deng/wendell-deng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "PHD tudent,Email-dengwz@nwafu.edu.cn"
   # location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Northwest A&F University"
+  # uri              : # URL
   email            : "dengwz@nwafu.edu.cn" 
 
   # Academic websites
