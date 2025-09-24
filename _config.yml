@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "邓文哲(Wendell Deng)"
 title_separator          : "-"
-name                     : "邓文哲-Wendell Deng
+name                     : "邓文哲-Wendell Deng"
 description              : "Deng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://wendell-deng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://wendell-deng.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wendell-deng/wendell-deng.github.io"
