@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,6 +32,9 @@ September 2020 – June 2024
 ## Articles
 
 
+# 2025
+- Shen P, Jing X, **Deng W**, Jia H, Wu T. "PlantGaussian: Exploring 3D gaussian splatting for cross-time, cross-scene, and realistic 3D plant visualization and beyond." *The Crop Journal*. 2025;13(2):607-618. doi:10.1016/j.cj.2025.01.011
+# 2022
+- **Deng W**, Zhou F, Gong Z, Cui Y, Liu L, Chi Q. "Disease feature recognition of hydroponic lettuce images based on support vector machine." *Traitement du Signal*. 2022;39(2):617-625. doi:10.18280/ts.390224
 
-- **Wendell Deng, Li Some, Wang Some.** "Research on Remote Sensing Image Analysis Methods Based on Machine Learning." *Journal of Remote Sensing*, 2023.
-- **Wendell Deng, Zhang Some, Liu Some.** "Applications of Multi-spectral Sensors in Crop Monitoring." *Journal of Agricultural Science*, 2022.
+
