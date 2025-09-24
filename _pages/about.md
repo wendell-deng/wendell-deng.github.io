@@ -11,30 +11,36 @@ redirect_from:
 
 **PhD Candidate**  
 *College of Mechanical and Electronic Engineering, Northwest A&F University*  
-September 2024 – Expected June 2029
-
+**September 2024 – Expected June 2029**
 
 **Bachelor's Degree**  
 *College of Mechanical and Electronic Engineering, Northwest A&F University*  
-September 2020 – June 2024
+**September 2020 – June 2024**
 
 ---
 
 ## Research Topic
 
-- 3D Plant Phenotyping
+- **3D Plant Phenotyping**  
+  Focus on developing advanced techniques for 3D plant phenotyping.
 
 ---
 
-
-
-
 ## Articles
 
+### 2025
+- **Shen P**, **Jing X**, **Deng W**, Jia H, Wu T.  
+  "PlantGaussian: Exploring 3D Gaussian Splatting for Cross-Time, Cross-Scene, and Realistic 3D Plant Visualization and Beyond."  
+  *The Crop Journal* 2025; **13(2)**:607-618.  
+  [DOI: 10.1016/j.cj.2025.01.011](https://doi.org/10.1016/j.cj.2025.01.011)
 
-# 2025
-- Shen P, Jing X, **Deng W**, Jia H, Wu T. "PlantGaussian: Exploring 3D gaussian splatting for cross-time, cross-scene, and realistic 3D plant visualization and beyond." *The Crop Journal*. 2025;13(2):607-618. doi:10.1016/j.cj.2025.01.011
-# 2022
-- **Deng W**, Zhou F, Gong Z, Cui Y, Liu L, Chi Q. "Disease feature recognition of hydroponic lettuce images based on support vector machine." *Traitement du Signal*. 2022;39(2):617-625. doi:10.18280/ts.390224
+### 2022
+- **Deng W**, Zhou F, Gong Z, Cui Y, Liu L, Chi Q.  
+  "Disease Feature Recognition of Hydroponic Lettuce Images Based on Support Vector Machine."  
+  *Traitement du Signal* 2022; **39(2)**:617-625.  
+  [DOI: 10.18280/ts.390224](https://doi.org/10.18280/ts.390224)
+
+---
+
 
 
