@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Wendell Deng
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+PhD Candidate | Northwest A&F University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Email: [dengwz@nwafu.edu.cn](mailto:dengwz@nwafu.edu.cn)  
+ORCID: [https://orcid.org/0009-0005-1462-9947](https://orcid.org/0009-0005-1462-9947)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+**PhD Candidate**  
+*College of Mechanical and Electronic Engineering, Northwest A&F University*  
+September 2024 – Expected June 2029
+
+
+**Bachelor's Degree**  
+*College of Mechanical and Electronic Engineering, Northwest A&F University*  
+September 2020 – June 2024
+
+---
+
+## Research Topic
+
+- 3D Plant Phenotyping
+
+---
+
+
+
+
+## Articles
+
+
+
+- **Wendell Deng, Li Some, Wang Some.** "Research on Remote Sensing Image Analysis Methods Based on Machine Learning." *Journal of Remote Sensing*, 2023.
+- **Wendell Deng, Zhang Some, Liu Some.** "Applications of Multi-spectral Sensors in Crop Monitoring." *Journal of Agricultural Science*, 2022.
+
+
