@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Wendell Deng
+# 邓文哲(wendell deng)
 
 PhD Candidate | Northwest A&F University
 
