@@ -29,6 +29,8 @@ redirect_from:
 ## Articles
 
 ### 2025
+- **Deng, W**., Zhang, J., Huang, J., Li, H., Han, Z., Wang, L., ... & Hu, W. HTPRootSlides: A high-throughput phenotyping platform for crop root germination dynamic screening. *The Crop Journal*. [DOI: 10.1016/j.cj.2025.10.014](https://doi.org/10.1016/j.cj.2025.10.014)
+
 - Shen P, Jing X, **Deng W**, Jia H, Wu T. PlantGaussian: Exploring 3D Gaussian Splatting for Cross-Time, Cross-Scene, and Realistic 3D Plant Visualization and Beyond.
   *The Crop Journal* 2025; 13(2):607-618.  
   [DOI: 10.1016/j.cj.2025.01.011](https://doi.org/10.1016/j.cj.2025.01.011)
