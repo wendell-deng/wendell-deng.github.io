@@ -11,7 +11,7 @@ redirect_from:
 
 # 邓文哲(wendell deng)
 
-PhD Candidate | Northwest A&F University | 22 Xifeng Road, Yangling District, Shaanxi Province
+PhD Candidate | Northwest A&F University | 22 Xinong Road, Yangling District, Shaanxi Province
 
 Email: [dengwz@nwafu.edu.cn](mailto:dengwz@nwafu.edu.cn)  
 ORCID: [https://orcid.org/0009-0005-1462-9947](https://orcid.org/0009-0005-1462-9947)
@@ -33,7 +33,8 @@ September 2020 – June 2024
 
 ## Research Topic
 
-- 3D Plant Phenotyping
+- 3D plant phenotyping
+- High throughput phenotyping of field wheat
 
 ---
 
