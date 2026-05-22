@@ -29,7 +29,7 @@ redirect_from:
 
 ## Articles
 
-###2026
+### 2026
 
 - **Deng, W,**, Wu, T., Ni, Z., Liu, Y., Jia, H., Ling, Q. Hyperspectral imaging meets 3D Gaussian Splatting: A novel approach beyond 3D plant morphology. *Plant Phenomics* 2026, 10098. 
 [DOI: 10.1016/j.cj.2025.10.014](https://doi.org/10.1016/j.cj.2025.10.014)
