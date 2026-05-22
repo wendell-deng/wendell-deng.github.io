@@ -24,12 +24,19 @@ redirect_from:
 - **3D Plant Phenotyping**  
   Focus on developing advanced techniques for 3D plant phenotyping.
 
----
+---**Filed scale phenotyping**
+  Focus on population reconstruction of wheat
 
 ## Articles
 
+###2026
+
+- **Deng, W,**, Wu, T., Ni, Z., Liu, Y., Jia, H., Ling, Q. Hyperspectral imaging meets 3D Gaussian Splatting: A novel approach beyond 3D plant morphology. *Plant Phenomics* 2026, 10098. 
+[DOI: 10.1016/j.cj.2025.10.014](https://doi.org/10.1016/j.cj.2025.10.014)
+- **Deng, W.**, Zhang, J., Huang, J., Li, H., Han, Z., Wang, L., ... & Hu, W. HTPRootSlides: A high-throughput phenotyping platform for crop root germination dynamic screening. *The Crop Journal* 2026; 14(2): 662-672. [DOI: 10.1016/j.plaphe.2026.100198](https://doi.org/10.1016/j.plaphe.2026.100198)
+
+
 ### 2025
-- **Deng, W**., Zhang, J., Huang, J., Li, H., Han, Z., Wang, L., ... & Hu, W. HTPRootSlides: A high-throughput phenotyping platform for crop root germination dynamic screening. *The Crop Journal*. [DOI: 10.1016/j.cj.2025.10.014](https://doi.org/10.1016/j.cj.2025.10.014)
 
 - Shen P, Jing X, **Deng W**, Jia H, Wu T. PlantGaussian: Exploring 3D Gaussian Splatting for Cross-Time, Cross-Scene, and Realistic 3D Plant Visualization and Beyond.
   *The Crop Journal* 2025; 13(2):607-618.  
