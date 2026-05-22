@@ -25,7 +25,7 @@ redirect_from:
   Focus on developing advanced techniques for 3D plant phenotyping.
 
 - **Filed scale phenotyping**
-  Focus on population reconstruction of wheat
+  Focus on population reconstruction of wheat.
 
 ## Articles
 
